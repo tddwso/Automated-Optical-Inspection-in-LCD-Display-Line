@@ -9,4 +9,4 @@
 
 3.鎖螺絲機視覺辨識
 
-![image](https://github.com/tddwso/Retina/blob/main/ACC.PNG)
+![image](https://github.com/tddwso/Automation-Line/blob/main/%E9%8E%96%E8%9E%BA%E7%B5%B2%E6%A9%9F.PNG)
