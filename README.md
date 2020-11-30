@@ -10,7 +10,7 @@
 三.負責項目
 1.自動傳輸線程式編寫
 
-![image](https://github.com/tddwso/Automation-Line/blob/main/%E9%8E%96%E8%9E%BA%E7%B5%B2%E6%A9%9F.PNG)
+![image](https://github.com/tddwso/Automation-Line/blob/main/PLC.PNG)
 
 2.鎖螺絲機視覺調校
 
@@ -18,7 +18,7 @@
 
 3.機器手臂點位調校
 
-
+![image](https://github.com/tddwso/Automation-Line/blob/main/%E9%8E%96%E8%9E%BA%E7%B5%B2%E6%A9%9F.PNG)
 
 4.協助整線生產
 
