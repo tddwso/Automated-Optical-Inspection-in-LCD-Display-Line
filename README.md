@@ -5,7 +5,7 @@
 
 2.整線示意圖
 
-![image](https://github.com/tddwso/Retina/blob/main/ACC.PNG)
+![image](https://github.com/tddwso/Automation-Line/blob/main/%E6%95%B4%E7%B7%9A.PNG)
 
 3.鎖螺絲機視覺辨識
 
