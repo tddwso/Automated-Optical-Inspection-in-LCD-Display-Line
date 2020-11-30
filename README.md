@@ -18,7 +18,7 @@
 
 3.機器手臂點位調校
 
-![image](https://github.com/tddwso/Automation-Line/blob/main/Robot.jpg)
+![image](https://github.com/tddwso/Automation-Line/blob/main/Robot1.jpg)
 
 4.協助整線生產
 
