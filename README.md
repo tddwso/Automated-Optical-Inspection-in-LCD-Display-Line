@@ -11,7 +11,7 @@
 
 1.自動傳輸線程式編寫
 
-![image](https://github.com/tddwso/Automation-Line/blob/main/PLC.PNG)
+![image](https://github.com/tddwso/Automation-Line/blob/main/PLC1.PNG)
 
 2.鎖螺絲機視覺調校
 
