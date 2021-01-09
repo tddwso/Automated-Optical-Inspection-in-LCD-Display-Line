@@ -25,7 +25,7 @@ PLC程式編寫、軟硬體連線設定
 
 3.機器手臂點位調校
 
-![image](https://github.com/tddwso/Automation-Line/blob/main/Robot1.jpg)
+![image](https://github.com/tddwso/Automated-Optical-Inspection-in-LCD-Display-Line/blob/main/robot.jpg)
 
 4.協助整線生產
 
