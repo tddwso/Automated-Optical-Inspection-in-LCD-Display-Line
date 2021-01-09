@@ -11,9 +11,13 @@
 
 1.自動傳輸線程式編寫
 
+PLC程式編寫、軟硬體連線設定
+
 ![image](https://github.com/tddwso/Automation-Line/blob/main/PLC1.PNG)
 
 2.鎖螺絲機視覺調校
+
+相機對位座標校正、視覺軟體設定
 
 ![image](https://github.com/tddwso/Automation-Line/blob/main/%E9%8E%96%E8%9E%BA%E7%B5%B2%E6%A9%9F.PNG)
 
