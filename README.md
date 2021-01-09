@@ -5,7 +5,7 @@
 
 二.整線示意圖
 
-由A269工站將產品傳送至
+由A269工站將產品傳送至A311/A321橫移工位，再分別傳送至工位進行背板螺絲鎖附作業，鎖附完成後從橫移工位傳遞至
 
 ![image](https://github.com/tddwso/Automation-Line/blob/main/%E6%95%B4%E7%B7%9A.PNG)
 
