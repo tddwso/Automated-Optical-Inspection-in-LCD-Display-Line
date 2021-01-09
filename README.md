@@ -5,6 +5,8 @@
 
 二.整線示意圖
 
+由A269工站將產品傳送至
+
 ![image](https://github.com/tddwso/Automation-Line/blob/main/%E6%95%B4%E7%B7%9A.PNG)
 
 三.負責項目
